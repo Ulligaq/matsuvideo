@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+/functions/node_modules
+
 # production
 /build
 
@@ -21,3 +23,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+matsuvideo-e23d8-firebase-adminsdk-78h1v-39c3cb71a0
